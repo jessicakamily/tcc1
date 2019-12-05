@@ -1,0 +1,180 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Balanis 2016]{balanisantenateoria}
+\abntrefinfo{Balanis}{BALANIS}{2016}
+{BALANIS, C. \emph{Antenna Theory: Analysis and Design}. 4. ed. [S.l.]: WILEY,
+  2016. 23~p.
+ISBN 978-1-118-642060-1.}
+
+\bibitem[Bauschke, Combettes e Luke 2002]{PRheinz}
+\abntrefinfo{Bauschke, Combettes e Luke}{BAUSCHKE; COMBETTES; LUKE}{2002}
+{BAUSCHKE, H.~H.; COMBETTES, P.~L.; LUKE, D.~L. Phase retrieval, error
+  reduction algorithm, and fienup variants: a view from convex optimization.
+\emph{J. Opt. Soc. Amer. A}, v.~19, p. 1334--1345, 2002.}
+
+\bibitem[Belrose 1995]{marconi}
+\abntrefinfo{Belrose}{BELROSE}{1995}
+{BELROSE, J.~S. Fessenden and marconi: their differing technologies and
+  transatlantic experiments during the first decade of this century. In:
+  \emph{Proceedings of the 1995 International Conference on 100 Years of
+  Radio}. [S.l.: s.n.], 1995. p. 32--43.}
+
+\bibitem[Dellinger 1919]{hertzaparato}
+\abntrefinfo{Dellinger}{DELLINGER}{1919}
+{DELLINGER, J.~H. Principles of radio transmission and reception with antenna
+  and coil aerials.
+\emph{Transactions of the American Institute of Electrical Engineers}, v.~38,
+  n.~2, p. 1347--1414, Jul 1919.}
+
+\bibitem[Dhumale, Thombare e Bangare 2019]{MLconcepts}
+\abntrefinfo{Dhumale, Thombare e Bangare}{DHUMALE; THOMBARE; BANGARE}{2019}
+{DHUMALE, R.~B.; THOMBARE, N.~D.; BANGARE, P.~M. Machine learning: A way of
+  dealing with artificial intelligence. In:  \emph{2019 1st International
+  Conference on Innovations in Information and Communication Technology
+  (ICIICT)}. [S.l.: s.n.], 2019. p.~1--6.}
+
+\bibitem[Dich 1997]{dich}
+\abntrefinfo{Dich}{DICH}{1997}
+{DICH, M. Accurate determination of antenna directivity.
+\emph{IEEE Transactions on Antennas and Propagation}, v.~45, n.~10, p.
+  1502--1505, Oct 1997.
+ISSN 1558-2221.}
+
+\bibitem[Fuchs et al. 2019]{tiao}
+\abntrefinfo{Fuchs et al.}{FUCHS et al.}{2019}
+{FUCHS, B. et al. Phaseless near field antenna measurements from two surface
+  scans - numerical and experimental investigations.
+\emph{IEEE Transactions on Antennas and Propagation}, p.~1--1, Oct 2019.
+ISSN 1558-2221.}
+
+\bibitem[Gerchberg e Saxton 1972]{GSarticle}
+\abntrefinfo{Gerchberg e Saxton}{GERCHBERG; SAXTON}{1972}
+{GERCHBERG, R.~W.; SAXTON, W.~O. Practical algorithm for determination of phase
+  from image and diffraction plane pictures.
+\emph{Optik}, v.~35, n.~2, p. 237--\&, 1972.
+ISSN 0030-4026.}
+
+\bibitem[Goodfellow, Bengio e Courville 2016]{DLian}
+\abntrefinfo{Goodfellow, Bengio e Courville}{GOODFELLOW; BENGIO;
+  COURVILLE}{2016}
+{GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. \emph{Deep Learning}. MIT Press,
+  2016. Dispon{\'\i}vel em: \url{http://www.deeplearningbook.org}.}
+
+\bibitem[Grohs, Koppensteiner e Rathmair 2019]{phaseconcepts}
+\abntrefinfo{Grohs, Koppensteiner e Rathmair}{GROHS; KOPPENSTEINER;
+  RATHMAIR}{2019}
+{GROHS, P.; KOPPENSTEINER, S.; RATHMAIR, M. \emph{The Mathematics of Phase
+  Retrieval}. 2019.}
+
+\bibitem[IEEE Standard Definitions of Terms for Antennas 1973]{ieeeantena}
+\abntrefinfo{IEEE\ldots}{IEEE\ldots}{1973}
+{IEEE Standard Definitions of Terms for Antennas.
+\emph{IEEE No 145-1973}, p. 1--18, Aug 1973.}
+
+\bibitem[IEEE Standard for Definitions of Terms for Antennas
+  2014]{antennadefinition}
+\abntrefinfo{IEEE\ldots}{IEEE\ldots}{2014}
+{IEEE Standard for Definitions of Terms for Antennas.
+\emph{IEEE Std 145-2013}, p. 1--50, Mar 2014.}
+
+\bibitem[Jordan e Balmain 1973]{jordan}
+\abntrefinfo{Jordan e Balmain}{JORDAN; BALMAIN}{1973}
+{JORDAN, E.~C.; BALMAIN, K.~G. \emph{Ondas Eletromagneticas y Sistemas
+  Radiantes}. [S.l.: s.n.], 1973.
+ISBN 8428303819.}
+
+\bibitem[Keller, Gray e Givens 1985]{knnkeller}
+\abntrefinfo{Keller, Gray e Givens}{KELLER; GRAY; GIVENS}{1985}
+{KELLER, J.~M.; GRAY, M.~R.; GIVENS, J.~A. A fuzzy k-nearest neighbor
+  algorithm.
+\emph{IEEE Transactions on Systems, Man, and Cybernetics}, SMC-15, n.~4, p.
+  580--585, Jul 1985.
+ISSN 2168-2909.}
+
+\bibitem[Kraus 1988]{hertzantena}
+\abntrefinfo{Kraus}{KRAUS}{1988}
+{KRAUS, J.~D. Heinrich hertz-theorist and experimenter.
+\emph{IEEE Transactions on Microwave Theory and Techniques}, v.~36, n.~5, p.
+  824--829, May 1988.}
+
+\bibitem[Lorena e Carvalho 2007]{SVMlorena}
+\abntrefinfo{Lorena e Carvalho}{LORENA; CARVALHO}{2007}
+{LORENA, A.; CARVALHO, A. Uma introdução às support vector machines.
+\emph{Revista de Informática Teórica e Aplicada; Vol. 14, No 2 (2007);
+  43-67}, v.~14, Dec 2007.}
+
+\bibitem[Majhi, S.Sabyasachi e Mishra 2014]{KMeans}
+\abntrefinfo{Majhi, S.Sabyasachi e Mishra}{MAJHI; S.SABYASACHI; MISHRA}{2014}
+{MAJHI, B.; S.SABYASACHI; MISHRA, S. Classification of power signals using aco
+  based k- means algorithm and fuzzy c-means algorithm. In:  . [S.l.: s.n.],
+  2014.}
+
+\bibitem[Maxwell e Torrance 1996]{maxwell}
+\abntrefinfo{Maxwell e Torrance}{MAXWELL; TORRANCE}{1996}
+{MAXWELL, J.~C.; TORRANCE, T.~F. \emph{A Dynamical Theory of the
+  Electromagnetic Field}. 0. ed. [S.l.: s.n.], 1996.
+ISBN 1579100155,9781579100155.}
+
+\bibitem[McCarthy et al. 2006]{mccarthyproposal}
+\abntrefinfo{McCarthy et al.}{MCCARTHY et al.}{2006}
+{MCCARTHY, J. et al. A proposal for the dartmouth summer research project on
+  artificial intelligence.
+\emph{AI Magazine}, n.~4, p.~12, Dec 2006.}
+
+\bibitem[Mijwel 2015]{aihistory}
+\abntrefinfo{Mijwel}{MIJWEL}{2015}
+{MIJWEL, M. History of artificial intelligence.
+v.~3, p.~1--8, Apr 2015.}
+
+\bibitem[Pauwels et al. 2017]{fienupmodel}
+\abntrefinfo{Pauwels et al.}{PAUWELS et al.}{2017}
+{PAUWELS, E. et al. On fienup methods for regularized phase retrieval.
+\emph{CoRR}, abs/1702.08339, Aug 2017.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/1702.08339}.}
+
+\bibitem[Russell e Norvig 2010]{MLrussel}
+\abntrefinfo{Russell e Norvig}{RUSSELL; NORVIG}{2010}
+{RUSSELL, S.; NORVIG, P. \emph{Artificial Intelligence: A Modern Approach}.
+  3rd. ed. [S.l.]: Prentice Hall, 2010.  (Prentice Hall Series in Artificial
+  Intelligence).
+ISBN 0136042597, 9780136042594.}
+
+\bibitem[Shabbir e Anwer 2018]{shabbir}
+\abntrefinfo{Shabbir e Anwer}{SHABBIR; ANWER}{2018}
+{SHABBIR, J.; ANWER, T. Artificial intelligence and its role in near future.
+\emph{CoRR}, abs/1804.01396, Aug 2018.}
+
+\bibitem[Shechtman, Beck e Eldar 2014]{gespar}
+\abntrefinfo{Shechtman, Beck e Eldar}{SHECHTMAN; BECK; ELDAR}{2014}
+{SHECHTMAN, Y.; BECK, A.; ELDAR, Y.~C. Gespar: Efficient phase retrieval of
+  sparse signals.
+\emph{IEEE Transactions on Signal Processing}, v.~62, n.~4, p. 928--938, Feb
+  2014.
+ISSN 1941-0476.}
+
+\bibitem[Simeone 2018]{MLintro}
+\abntrefinfo{Simeone}{SIMEONE}{2018}
+{SIMEONE, O. A very brief introduction to machine learning with applications to
+  communication systems.
+\emph{CoRR}, abs/1808.02342, Sep 2018.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/1808.02342}.}
+
+\bibitem[Situ, Suo e Dai 2015]{situ}
+\abntrefinfo{Situ, Suo e Dai}{SITU; SUO; DAI}{2015}
+{SITU, G.; SUO, J.; DAI, Q. Generalized iterative phase retrieval algorithms
+  and their applications. In:  \emph{2015 IEEE 13th International Conference on
+  Industrial Informatics (INDIN)}. [S.l.: s.n.], 2015. p. 713--720.
+ISSN 2378-363X.}
+
+\bibitem[Taulli 2019]{AIbasics}
+\abntrefinfo{Taulli}{TAULLI}{2019}
+{TAULLI, T. \emph{Artificial Intelligence Basics. A Non-Technical
+  Introduction}. [S.l.]: Apress, 2019.
+ISBN 978-1-4842-5027-3.}
+
+\end{thebibliography}
